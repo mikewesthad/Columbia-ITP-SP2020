@@ -1,10 +1,10 @@
 # Escape Room Breakdown
 
-We're going to be building on our group work today, building a virtual escape room.
+We're going to use our knowledge of loops to build an escape room game.
 
 ## Overview
 
-You'll be creating an escape room. The player is trapped in a locked room that requires a code to escape. The player can non-linearly explore a series of objects in the room to find clues. Once the player has discovered all the clues, they should be able to use them to figure out the code to escape the room. Your finished version might look something like [this](https://nv.instructuremedia.com/fetch/QkFoYkIxc0hhUVRpU0trRU1Hd3JCNS9IbDEwPS0tNDFmNDRhOGY1YjQ4M2Q5NjlkZDg3N2VhMmNkODk1MzA5NGViMTBlZg.mp4).
+You'll be creating an escape room. The player is trapped in a locked room that requires a code to escape. The player can non-linearly explore a series of objects in the room to find clues. Once the player has discovered all the clues, they should be able to use them to figure out the code to escape the room. Your finished version might look something like [this](https://nv.instructuremedia.com/fetch/QkFoYkIxc0hhUVRKRjZZRmFRUVlJZUFFYkNzSFp1NTlYdz09LS1iZmJhMWQyMGExNDRhN2VhZjEyY2Y4MTQ2OTNkOGEzMThkMjhlYWNm.mp4?disposition=download_original&filename=escape-demo).
 
 - Your room should have three objects that the player can interact with. Keep it simple for now. For example, one object could be a piece of paper that the player can read.
 - There should be a locked door (or something similar) that the player can interact with that prompts the player for a code.
