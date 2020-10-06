@@ -221,4 +221,7 @@ Test it out. You should be able to explore all your rooms and immediately escape
 - Change the console title.
 - What happens if they don't choose a valid option? Give them some feedback when that happens.
 - Give your app some ASCII design and color to make it pop. Give each room it's own color or distinctive design element.
-- (Optional) Track the number of seconds that it took the player to escape using the [Systems.Diagnostics.Stopwatch](https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.stopwatch?view=netframework-4.8) class. Give the player feedback on how they did (e.g. <= 30 seconds might be an excellent time, but taking 60 seconds might just be an okay time). You'll need to read the documentation for this - reading documentation is a skill that requires practice. Check out the examples, then look through the fields, properties and methods sections. You won't understand everything you see the first time you read it.
+
+## Optional Extensions
+
+- Track the number of seconds that it took the player to escape using the [Systems.Diagnostics.Stopwatch](https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.stopwatch?view=netframework-4.8) class. Give the player feedback on how they did (e.g. <= 30 seconds might be an excellent time, but taking 60 seconds might just be an okay time). You'll need to read the documentation for this - reading documentation is a skill that requires practice. Check out the examples, then look through the fields, properties and methods sections. You won't understand everything you see the first time you read it.
